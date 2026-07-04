@@ -4,7 +4,8 @@ You will be given feedback throughout of errors that are recieved, bugs, and cha
 
 ***
 
-# Unique Requirements & Stretch Challenges
+# Unique Requirements 
+# & Stretch Challenges
 ## Write one or more programs in Kotlin that demonstrates the following 5 things:
 
 1. Variables (mutable and immutable)
@@ -140,6 +141,7 @@ In settings, Allow the user to set the default:
     - Whether the flash cards are shuffled by default or not
     - Whether system spell check is on or off
     - Turn the visual on or off
+Settings are saved in a json file so that each time the app is loaded they are the same
 ## Visual
     - Creat animation for the left bar unfolding when notebooks clicked
     - Have tree lines as shown in the wireframe included under notebooks or next to the contents when open
